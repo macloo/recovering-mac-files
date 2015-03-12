@@ -41,7 +41,7 @@ Oh, wait: Your USB drive might NOT be "hfs." Find out using this guide:
 
 http://www.tuaw.com/2011/09/19/mac-101-format-choices-for-usb-flash-drives/
 
-(There are lots of commands for "mount" -- this will show them to you.
+(There are lots of commands for "mount" -- this will show them to you: 
 
 `ls /sbin/ | grep mount_`
 
