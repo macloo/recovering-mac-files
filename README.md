@@ -57,7 +57,7 @@ Now you are ready to copy. The pattern is:
 
 **Example:**
 
-`cp -R /Users/MarySmith/Documents/Courses/'Code for Journalists'/ /Volumes/usbdrive/code/
+`cp -R /Users/MarySmith/Documents/Courses/'Code for Journalists'/ /Volumes/usbdrive/code/`
 
 **WAIT UNTIL THE PROMPT REAPPEARS** (e.g., `bash-3.2#`). Do not touch any key until then. It might take a while! 
 
@@ -71,7 +71,7 @@ Remember, your USB drive might not be named `disk2s1` on your Mac.
 
 ## Sources 
 
-These were the most helpful to me.
+These were the most helpful to me. (THANK YOU SO MUCH. You people saved me and my files. <3 <3 <3 xxoo)
 
 http://jsalovaara.com/blog/backing-up-files-to-a-usb-drive-using-single-user-mode.html
 
