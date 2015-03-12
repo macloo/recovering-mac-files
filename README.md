@@ -46,7 +46,8 @@ http://www.tuaw.com/2011/09/19/mac-101-format-choices-for-usb-flash-drives/
 `ls /sbin/ | grep mount_`
 
 NOTE: It is okay to mount it to `/Volumes/usbdrive` again and again. 
-For example, if you are taking out the USB and then reinserting it.)
+For example, if you are taking out the USB and then reinserting it. 
+See below for how to safely un-mount the USB device.)
 
 ### End side note
 
