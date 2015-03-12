@@ -83,3 +83,5 @@ http://alvinalexander.com/mac-os-x/mac-osx-single-user-mode-usb-drive
 
 http://www.tuaw.com/2011/09/19/mac-101-format-choices-for-usb-flash-drives/
 
+P.S. I spent an hour on the phone with Apple Support. The person there was very nice to me, and we tried a lot of things. But we NEVER tried Command (⌘)-S. The Apple Support person said all I could do was reformat my hard drive and reinstall OS X. Which would mean losing all my un-backed-up data. Unless I wanted to pay a third party to do data recovery fo me, the Apple Support person (un)helpfully added. 
+
