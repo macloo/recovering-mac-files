@@ -67,7 +67,7 @@ Before removing USB drive:
 
 **(NOTE: That is not un -- it is u.)**
 
-Remember, your USB drive might not be named `disk2s1` on your Mac. 
+Remember, your USB drive might not be named `disk2s1` on your Mac. You found out what it's called before. Go back. Look.
 
 ## Sources 
 
