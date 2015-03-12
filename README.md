@@ -35,6 +35,8 @@ Mount the USB drive:
 
 `/sbin/mount_hfs /dev/disk2s1 /Volumes/usbdrive`
 
+-----
+
 ### Side note
 
 Oh, wait: Your USB drive might NOT be "hfs." Find out using this guide: 
@@ -50,6 +52,8 @@ For example, if you are taking out the USB and then reinserting it.
 See below for how to safely un-mount the USB device.)
 
 ### End side note
+
+-----
 
 Now you are ready to copy. The pattern is:
 
