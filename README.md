@@ -3,11 +3,13 @@ Dead MacBook, no reboot, disk can't be repaired. Forgot to back up. What to do? 
 
 ## Steps to Recover Your Files
 
-OS X Yosemite: Start up in single-user mode
+**OS X Yosemite:** Start up in single-user mode. How: 
 
 Press Command (⌘)-S as your Mac starts up.
 
 Source: https://support.apple.com/kb/PH18782?locale=en_US&viewlocale=en_US
+
+**NOTE: This is not for people who never use the command line! You will be at the root of your system. There will be nothing but typing!**
 
 Give yourself the power to write:
 
