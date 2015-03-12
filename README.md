@@ -55,17 +55,17 @@ Now you are ready to copy. The pattern is:
 
 `cp -R /name/of/all/directories/on/source/drive/ /Volumes/usbdrive/newDirectory/`
 
-**Example:**
+* Example: *
 
 `cp -R /Users/MarySmith/Documents/Courses/'Code for Journalists'/ /Volumes/usbdrive/code/`
 
-**WAIT UNTIL THE PROMPT REAPPEARS** (e.g., `bash-3.2#`). Do not touch any key until then. It might take a while! 
+* WAIT UNTIL THE PROMPT REAPPEARS * (e.g., `bash-3.2#`). Do not touch any key until then. It might take a while! 
 
 Before removing USB drive:
 
 `umount /dev/disk2s1`
 
-**(NOTE: That is not un -- it is u.)**
+* (NOTE: That is not un -- it is u.) *
 
 Remember, your USB drive might not be named `disk2s1` on your Mac. 
 
